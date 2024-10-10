@@ -239,6 +239,33 @@
 .node-js {
     margin-right: 200px;
 }
+/* support  section */
+.support-section {
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 20px;
+}
+
+.support {
+    background: url('/assets/handshake.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    margin: auto;
+    padding: 0px 0px 100px;
+    border-radius: 10px;
+}
+
+.input-field {
+    padding: 15px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.btn-submit {
+    padding: 15px;
+    border-radius: 10px;
+}
 
 /* footer */
 .footer-content {
