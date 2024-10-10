@@ -239,11 +239,18 @@
 .node-js {
     margin-right: 200px;
 }
+
 /* support  section */
 .support-section {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
     margin-top: 20px;
+}
+.support-section h1{
+    font-size: 40px;
+    font-weight: 800;
+
+    
 }
 
 .support {
@@ -252,8 +259,9 @@
     background-size: cover;
     width: 90%;
     margin: auto;
-    padding: 0px 0px 100px;
+    padding: 0px 0px 200px 20px;
     border-radius: 10px;
+    color: white;
 }
 
 .input-field {
