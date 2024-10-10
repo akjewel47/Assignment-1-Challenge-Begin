@@ -247,7 +247,7 @@
 }
 
 .support {
-    background: url('/assets/handshake.jpg');
+    background: url('./assets/handshake.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
